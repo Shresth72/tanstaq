@@ -6,7 +6,7 @@ import {
 import { Head, Html, Meta, Body, Scripts } from "@tanstack/start";
 import * as React from "react";
 import { ThemeProvider } from "../_context/themeContext";
-import "../_styles/index.css";
+import "../_styles/globals.css";
 import { LayoutComponent } from "./_layout";
 
 export const Route = createRootRoute({

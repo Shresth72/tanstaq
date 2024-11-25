@@ -19,12 +19,16 @@ const themes = {
     secondary: "#6c757d",
     background: "#ffffff",
     text: "#000000",
+    button: "#282834",
+    buttonText: "#cbd1e8",
   },
   dark: {
     primary: "#0056b3",
     secondary: "#495057",
-    background: "#121212",
+    background: "#050505",
     text: "#ffffff",
+    button: "#282834",
+    buttonText: "#cbd1e8",
   },
 };
 
